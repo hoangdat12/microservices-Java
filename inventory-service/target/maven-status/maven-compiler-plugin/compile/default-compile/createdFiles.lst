@@ -1,0 +1,7 @@
+com\microservices\inventoryservice\controller\InventoryController.class
+com\microservices\inventoryservice\dto\InventoryRequest.class
+com\microservices\inventoryservice\model\Inventory$InventoryBuilder.class
+com\microservices\inventoryservice\service\InventoryService.class
+com\microservices\inventoryservice\InventoryServiceApplication.class
+com\microservices\inventoryservice\model\Inventory.class
+com\microservices\inventoryservice\Repository\InventoryRepository.class

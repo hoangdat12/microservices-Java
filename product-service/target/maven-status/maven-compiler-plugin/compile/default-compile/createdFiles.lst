@@ -1,0 +1,14 @@
+com\microservices\productservice\service\BucketProductService$1.class
+com\microservices\productservice\model\Product.class
+com\microservices\productservice\controller\ProductController.class
+com\microservices\productservice\ProductServiceApplication.class
+com\microservices\productservice\repository\BucketProductRepository.class
+com\microservices\productservice\service\ProductService.class
+com\microservices\productservice\model\BucketProduct.class
+com\microservices\productservice\service\BucketProductService.class
+com\microservices\productservice\dto\BucketProductPaginationDTO$BucketProductPaginationDTOBuilder.class
+com\microservices\productservice\dto\BucketProductPaginationDTO.class
+com\microservices\productservice\model\BucketProduct$BucketProductBuilder.class
+com\microservices\productservice\config\RedisConfig.class
+com\microservices\productservice\repository\ProductRepository.class
+com\microservices\productservice\model\Product$ProductBuilder.class

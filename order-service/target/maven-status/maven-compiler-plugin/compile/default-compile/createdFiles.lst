@@ -1,0 +1,10 @@
+com\microservices\orderservice\model\OrderItem.class
+com\microservices\orderservice\model\Order.class
+com\microservices\orderservice\service\OrderService.class
+com\microservices\orderservice\dto\CancelOrderRequest.class
+com\microservices\orderservice\model\OrderItem$OrderItemBuilder.class
+com\microservices\orderservice\OrderServiceApplication.class
+com\microservices\orderservice\model\Order$OrderBuilder.class
+com\microservices\orderservice\Repository\OrderRepository.class
+com\microservices\orderservice\controller\OrderController.class
+com\microservices\orderservice\dto\OrderRequest.class
